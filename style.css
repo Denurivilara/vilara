@@ -12,7 +12,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url(pics/background.jpg);
+    background-image: url(background.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -198,7 +198,7 @@ nav ul li a:hover {
 /*------------------Services Section------------------*/
 #services {
     padding: 60px 0; /* Reduced padding from 1000px */
-    background: url(pics/istockphoto-1321462048-1024x1024.jpg);
+    background: url(istockphoto-1321462048-1024x1024.jpg);
 }
 .services-list {
     display: grid;
@@ -410,7 +410,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-    background-image: url(pics/phone.jpg);
+    background-image: url(phone.jpg);
     }
     .header-text{
     margin-top: 100%;
